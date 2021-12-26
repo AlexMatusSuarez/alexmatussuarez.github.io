@@ -1,0 +1,82 @@
+
+h1 {
+    font-size: 80px;
+    color: white;
+    text-align: center;
+    position: relative;
+    bottom: 55px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.structure {
+    height: 100px;
+    background-color: rgb(0, 195, 255);
+    padding: 20px 0px;
+    margin: 20px 0px;
+}
+
+body {
+    max-width: 1920px;
+    margin: auto;
+    background-color: white;
+}
+
+.main-table {
+    color: white;
+    text-align: center;
+    margin: 20px auto;
+}
+
+.table {
+    margin: auto;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+th {
+    font-size: 50px;
+    height: 100px;
+    width: 1000px;
+    background-color: rgb(0, 195, 255);
+}
+
+td {
+    background-color: rgb(240, 240, 240);
+    height: 188px;
+    color: black;
+    font-size: 20px;
+    padding: 30px;
+}
+
+p {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.list-1 {
+    text-align: left;
+}
+
+.tag {
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.no-closing-tag {
+    color: rgb(195, 195, 195);
+    font-size: 20px;
+}
+
+.data-tags {
+    background-color: rgb(195, 195, 195);
+}
+
+.data-tags-side {
+    background-color: rgb(228, 228, 228);
+}
+
+.big-question {
+    height: 100px;
+    background-color: rgb(0, 195, 255);
+    padding: 20px 0px;
+    margin: 20px auto;
+}
